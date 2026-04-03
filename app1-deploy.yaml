@@ -18,6 +18,6 @@ spec:
         - name: dockerhub-secret
       containers:
         - name: app1
-          image: docker push suleyman15700/cloud-app1:v1.0.0
+          image: docker push suleyman15700/cwcilo-app1:v1.0.0
           ports:
             - containerPort: 5000
